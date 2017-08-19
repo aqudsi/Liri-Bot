@@ -1,0 +1,24 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "keys.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqudsi/Liri-Bot.git"
+  },
+  "author": "Ahmer Qudsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqudsi/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/aqudsi/Liri-Bot#readme"
+}
